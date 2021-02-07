@@ -1,0 +1,23 @@
+/*Style for body*/ body{ 
+    text-align:center; 
+} 
+/*Style for paragraph tag*/
+h1{ 
+word-spacing: 10px;
+font-variant: small-caps; 
+text-align: center; 
+font-size: 80px;
+} 
+#para{ 
+font-size:50px;
+}
+/*style for image tag*/ 
+#Picture { 
+border-style:solid;
+border-color:#689F38 ;
+border:1px; 
+border-radius: 80px;
+padding: 5px; 
+width: 450px;
+height:450px;
+}
